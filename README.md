@@ -76,7 +76,7 @@ index.html
     <section id="home" class="hero">
         <div class="hero-text">
             <h1>Hello, I'm <span>POOJASRI</span></h1>
-            <p>3rd Year CSE Student | Aspiring Full Stack Developer</p>
+            <p>3rd Year IT Student | Aspiring Full Stack Developer</p>
             <a href="#projects" class="btn">View My Work</a>
         </div>
         <div class="hero-img">
@@ -312,8 +312,8 @@ footer {
 ```
 
 ## OUTPUT
-<img width="1919" height="1011" alt="Screenshot 2025-08-11 215315" src="https://github.com/user-attachments/assets/a6e829ae-67c6-4cc4-b9ab-11ebf4d151f9" />
-<img width="1919" height="1021" alt="Screenshot 2025-08-11 215331" src="https://github.com/user-attachments/assets/d4fa143c-479e-43f5-8663-b63b80cbfd54" />
+<img width="1919" height="1016" alt="Screenshot 2025-08-11 220343" src="https://github.com/user-attachments/assets/521e8245-9edf-429d-8e9e-9b0ad367c4b3" />
+<img width="1919" height="1077" alt="Screenshot 2025-08-11 220356" src="https://github.com/user-attachments/assets/ea404c3c-1c5c-4c25-9c5e-17ada8103dc8" />
 
 
 ## RESULT
